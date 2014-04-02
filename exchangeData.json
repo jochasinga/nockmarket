@@ -1,0 +1,4 @@
+exchangeData: {
+	      buys: {prices: ..., volumes: ...}
+	      sells: {princes: ..., volumes: ...}
+}
